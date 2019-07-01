@@ -89,3 +89,10 @@ In the grand scheme of things lots of small changes could be made to give some s
 #Check for similarity in left & right lines + balance the more radical using most like previous / less radical line
 #simple catch for bad road mappings based on avg road width line-to-line (e.g. challenge video outputs nearly 2x wide)
 #Settings could probably be optimized a bit better given some trial-and-error
+
+
+
+Useful help from:
+https://github.com/jeremy-shannon/CarND-Advanced-Lane-Lines/
+https://github.com/miguelangel/sdc--advanced-lane-finding/
+https://github.com/udacity/
